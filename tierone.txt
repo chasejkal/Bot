@@ -1,0 +1,9 @@
+test1
+https://
+http://
+http
+.com
+.us
+.net
+.co
+.co.uk
